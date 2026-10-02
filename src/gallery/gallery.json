@@ -1,0 +1,44 @@
+[
+  {
+    "imghero": "/images/plan my trip/plan my trip hero.png",
+
+    "plantext1": "PLAN YOUR SALEM JOURNEY",
+    "plantext2": "Your Salem Adventure Starts Here",
+    "plantext3": "Plan your perfect journey through Salem’s misty hills, waterfalls, heritage sites, temples, culture and unforgettable experiences.",
+
+    "plansub": "Travel Planning",
+    "planmain": "Plan Your Salem Journey",
+    "plantext4": "Discover the best time to visit Salem, explore its diverse attractions, and create a personalized itinerary that suits your interests and preferences.",
+
+    "plangrid1": "Best Time",
+    "plangrid2": "Getting Around",
+    "plangrid3": "What to Carry",
+    "plangrid4": "Capture Memories",
+
+    "plangridpara1": "Plan your visit according to the places and experiences you want to enjoy.",
+    "plangridpara2": "Plan your transportation between Salem city, Yercaud and nearby attractions.",
+    "plangridpara3": "Comfortable footwear, water, sunglasses and essentials can make your trip easier.",
+    "plangridpara4": "Keep your camera ready for Salem's hills, waterfalls, heritage and beautiful landscapes.",
+
+
+        "expsub": "FIND YOUR PERFECT EXPERIENCE",
+        "expmain": "What Kind of Salem Experience?",
+    
+        "icon1": "🌿",
+        "title1": "Nature",
+        "description1": "Explore hills, waterfalls, viewpoints and peaceful landscapes.",
+
+        "icon2": "🏛️",
+        "title2": "Heritage",
+        "description2": "Discover forts, temples, historic places and Salem's rich past.",
+  
+        "icon3": "🍽️",
+        "title3": "Food",
+        "description3": "Taste local food, traditional dishes and Salem's famous mangoes.",
+
+        "icon4": "👨‍👩‍👧",
+        "title4": "Family",
+        "description4": "Enjoy relaxing attractions and memorable experiences with family."
+    
+  }
+]

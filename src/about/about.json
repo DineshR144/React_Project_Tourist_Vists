@@ -1,0 +1,56 @@
+[
+    {
+        "imghero": "/images/about/abouthero.png",
+        "abouttext1":"Discover Salem",
+        "abouttext2":"About Salem",
+        "abouttext3":"Discover the rich heritage, natural beauty, culture and traditions of Salem — the Mango City of Tamil Nadu.",
+        
+
+        "history":"Our History",
+        "our":"About Salem ",
+        "img1":"./images/about/Stone Age.png",
+        "head1":"Stone Age",
+        "p1":" Paleolithic and Neolithic stone implements, ancient burial sites, and dung ash mounds have been unassignedly retrieved in and around the region, indicating early human civilization and habitation dating back to the Stone Age.",
+        "img2":"./images/about/3rd Century BCE.png",
+        "head2":"3rd Century BCE",
+        "p2":"In the 3rd century BCE, Salem saw the arrival of Buddhism and Jainism. This era coincided with the active period of the Tamil Siddhar Bogar. Politically, the area was part of the ancient Kongu region.",
+        "img3":"./images/about/1st Century CE.png",
+        "head3":"1st Century CE",
+        "p3":"First-century CE Roman silver coins were discovered in the Salem district at Koneripatti in 1987, featuring silver denarii from the reign of Roman Emperor Tiberius Claudius Nero (37–68 CE), which provide vital historical evidence of ancient Indo-Roman trade networks passing through the Kongu region of Tamil Nadu.",
+        "img4":"./images/about/2nd Century CE — Pandyan Dynasty.jpeg",
+        "head4":"2nd Century CE — Pandyan Dynasty",
+        "p4":"During the 2nd century CE, the region was associated with the rule of the Pandyan dynasty. Pandyan Nedunchezhiyan and Kanaikkal Irumporai are traditionally associated with the rule of the Kolli Hills region during this period.",
+        "img5":"./images/about/Medieval Period.png",
+        "head5":"Medieval Period",
+        "p5":"During the medieval period, the Salem District in Tamil Nadu transitioned through major South Indian imperial reigns, shifting from the Chola and Hoysala dynasties to the Vijayanagara Empire, local Poligar chieftains, and later the Mysore Kingdom before British annexation.",
+        "img6":"./images/about/first district.jpeg",
+        "head6":"First District in Tamilnadu",
+        "p6":"Salem is historically recognized as the first district to be formed in Tamil Nadu (and in the whole of India), established on April 4, 1792, during British rule.",
+        "img7":"./images/about/today.jpeg",
+        "head7":"Today",
+        "p7":"Salem combines heritage, hills, mango cultivation, handicrafts, temples, tourism and modern industry, giving the district a distinctive identity in Tamil Nadu.",
+
+
+
+        "ap1":"Salem is the fifth largest city in Tamil Nadu — a metropolis of surprising depth, where ancient Dravidian culture, forested hills, mango orchards, temple traditions and modern industry coexist with remarkable harmony.",
+        "aph1":"Mango Capital",
+        "apt1":"Salem district produces some of the finest mangoes in India. Over 200 varieties are cultivated across thousands of hectares of orchards stretching from the plains to the Shevaroy foothills.",
+        "aph2":"Shevaroy Hills",
+        "apt2":"The Shevaroy Range rises dramatically from the plains to 1623 metres, hosting the hill station of Yercaud and the sacred Shevaroy Temple, a pilgrimage site for the indigenous Malaiyali community.",
+        "aph3":"Steel City",
+        "apt3":"Salem houses one of South India's largest steel complexes and a robust rolling mill industry. Its industrial identity complements its agricultural and cultural heritage.",
+        "aph4":"Ancient Heritage",
+        "apt4":"Salem's history spans the Vijayanagara Empire, the Nawabs of Arcot, Hyder Ali and Tipu Sultan, and the British colonial era. Sangagiri Fort stands as a physical record of this layered past.",
+        "aph5":"Living Culture",
+        "apt5":"From the Malayali pilgrim festival to Adiperukku, from Kottai Mariamman's grand processions to the Yercaud Summer Festival, Salem's calendar is rich with living cultural tradition.",
+        "aph6":"Mettur Dam",
+        "apt6":"Mettur Dam and the Stanley Reservoir became major landmarks associated with water management and agriculture in the region.",
+
+
+
+
+
+        "lastimg":"/images/about/salem ai.jpg"
+        
+    }
+]

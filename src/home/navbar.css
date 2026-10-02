@@ -1,0 +1,207 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #faf5eb;
+  font-family: Arial, sans-serif;
+}
+
+/* Navbar */
+
+.navbar {
+  width: 100%;
+  height: 116px;
+  padding: 0 40px;
+  background-color: #faf5eb;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  border-bottom: 1px solid #ddd4c4;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.08);
+
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+/* Logo */
+
+.logo {
+  width: 250px;
+}
+
+.logo h1 {
+  color: #173f2d;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 34px;
+  font-weight: 700;
+  letter-spacing: -2px;
+}
+
+.logo span {
+  display: block;
+  margin-top: -2px;
+
+  color: #e79b21;
+  font-size: 10px;
+  font-weight: 600;
+  letter-spacing: 3px;
+}
+
+/* Navigation */
+
+.nav-links {
+  display: flex;
+  align-items: center;
+  gap: 34px;
+}
+
+.nav-links a {
+  color: #173f2d;
+  text-decoration: none;
+
+  font-size: 16px;
+  font-weight: 600;
+
+  transition: 0.3s ease;
+}
+
+.nav-links a:hover {
+  color: #e79b21;
+}
+
+/* Right section */
+
+.nav-right {
+  display: flex;
+  align-items: center;
+  gap: 25px;
+}
+
+/* Search */
+
+.search-btn {
+  border: none;
+  background: transparent;
+  color: #173f2d;
+
+  cursor: pointer;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.search-btn:hover {
+  color: #e79b21;
+}
+
+/* Explore button */
+
+.explore-btn {
+  border: none;
+  background-color: #f6a51b;
+  color: white;
+
+  padding: 15px 26px;
+  border-radius: 30px;
+
+  font-size: 16px;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition: 0.3s ease;
+}
+
+.explore-btn:hover {
+  background-color: #e5940c;
+  transform: translateY(-2px);
+}
+
+/* =========================
+   Responsive Design
+========================= */
+
+@media (max-width: 1100px) {
+
+  .navbar {
+    padding: 0 25px;
+  }
+
+  .logo {
+    width: 180px;
+  }
+
+  .nav-links {
+    gap: 20px;
+  }
+
+  .nav-links a {
+    font-size: 14px;
+  }
+
+  .explore-btn {
+    padding: 13px 20px;
+    font-size: 14px;
+  }
+}
+
+/* Tablet */
+
+@media (max-width: 850px) {
+
+  .navbar {
+    height: 90px;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .nav-right {
+    margin-left: auto;
+  }
+}
+
+/* Mobile */
+
+@media (max-width: 500px) {
+
+  .navbar {
+    height: 80px;
+    padding: 0 18px;
+  }
+
+  .logo {
+    width: auto;
+  }
+
+  .logo h1 {
+    font-size: 27px;
+  }
+
+  .logo span {
+    font-size: 8px;
+    letter-spacing: 2px;
+  }
+
+  .nav-right {
+    gap: 12px;
+  }
+
+  .search-btn svg {
+    width: 20px;
+    height: 20px;
+  }
+
+  .explore-btn {
+    padding: 11px 15px;
+    font-size: 12px;
+  }
+}
