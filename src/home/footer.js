@@ -10,7 +10,12 @@ function Footer() {
         {/* ================= TOP SECTION ================= */}
         <div
           className="
-            grid grid-cols-1 gap-12 sm:grid-cols-2 lg:grid-cols-[2fr_1fr_1fr_1fr] lg:gap-10">
+            grid grid-cols-1 gap-12
+            sm:grid-cols-2
+            lg:grid-cols-[2fr_1fr_1fr_1fr]
+            lg:gap-10
+          "
+        >
 
           {/* ================= BRAND ================= */}
           <div className="lg:pr-16">
@@ -19,21 +24,42 @@ function Footer() {
             <div className="mb-6">
               <h2
                 className="
-                  font-serif text-4xl font-bold leading-none tracking-tight text-white">
+                  font-serif
+                  text-4xl
+                  font-bold
+                  leading-none
+                  tracking-tight
+                  text-white
+                "
+              >
                 SALEM
               </h2>
 
               <p
                 className="
-                  mt-1 text-xs font-bold tracking-[0.25em] text-[#f5b51b]">
+                  mt-1
+                  text-xs
+                  font-bold
+                  tracking-[0.25em]
+                  text-[#f5b51b]
+                "
+              >
                 THE MANGO CITY
               </p>
             </div>
 
             {/* Description */}
             <p
-              className="max-w-[440px] text-sm leading-7 text-gray-400 sm:text-base">
-              Nature · Heritage · Culture · Mango · Craft<br />
+              className="
+                max-w-[440px]
+                text-sm
+                leading-7
+                text-gray-400
+                sm:text-base
+              "
+            >
+              Nature · Heritage · Culture · Mango · Craft
+              <br />
               Salem, Tamil Nadu, India.
             </p>
 
@@ -43,9 +69,25 @@ function Footer() {
               {/* Instagram */}
               <a
                 href="https://www.instagram.com/salem_page/?hl=en"
+                target="_blank"
+                rel="noreferrer"
                 aria-label="Instagram"
                 className="
-                  flex h-11 w-11 items-center justify-center rounded-full bg-[#242925] text-white transition-all duration-300 hover:-translate-y-1 hover:bg-[#f5b51b] hover:text-black">
+                  flex
+                  h-11
+                  w-11
+                  items-center
+                  justify-center
+                  rounded-full
+                  bg-[#242925]
+                  text-white
+                  transition-all
+                  duration-300
+                  hover:-translate-y-1
+                  hover:bg-[#f5b51b]
+                  hover:text-black
+                "
+              >
                 <svg
                   className="h-5 w-5"
                   fill="none"
@@ -79,10 +121,26 @@ function Footer() {
 
               {/* Facebook */}
               <a
-                href="#"
+                href="https://www.facebook.com/"
+                target="_blank"
+                rel="noreferrer"
                 aria-label="Facebook"
                 className="
-                  flex h-11 w-11 items-center justify-center rounded-full bg-[#242925] text-white transition-all duration-300 hover:-translate-y-1 hover:bg-[#f5b51b] hover:text-black">
+                  flex
+                  h-11
+                  w-11
+                  items-center
+                  justify-center
+                  rounded-full
+                  bg-[#242925]
+                  text-white
+                  transition-all
+                  duration-300
+                  hover:-translate-y-1
+                  hover:bg-[#f5b51b]
+                  hover:text-black
+                "
+              >
                 <svg
                   className="h-5 w-5"
                   fill="currentColor"
@@ -94,7 +152,9 @@ function Footer() {
 
               {/* YouTube */}
               <a
-                href="#"
+                href="https://www.youtube.com/"
+                target="_blank"
+                rel="noreferrer"
                 aria-label="YouTube"
                 className="
                   flex
@@ -124,7 +184,6 @@ function Footer() {
             </div>
           </div>
 
-
           {/* ================= EXPLORE ================= */}
           <FooterColumn
             title="Explore"
@@ -136,7 +195,6 @@ function Footer() {
               ["Handcrafts", "/handicrafts"],
             ]}
           />
-
 
           {/* ================= DISCOVER ================= */}
           <FooterColumn
@@ -150,7 +208,6 @@ function Footer() {
             ]}
           />
 
-
           {/* ================= TRAVEL ================= */}
           <FooterColumn
             title="Travel"
@@ -162,7 +219,6 @@ function Footer() {
           />
 
         </div>
-
 
         {/* ================= DIVIDER ================= */}
         <div className="mt-14 border-t border-white/10 pt-7">
