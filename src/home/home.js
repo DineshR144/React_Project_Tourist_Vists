@@ -4,7 +4,6 @@ import HomeExpo from "./homeexpo"
 import Homefest from "./homefest"
 import Homecraft from "./homecraft"
 import MangoHeritage from "./mangohome";
-import Homegallery from "./homegallery";
 import Footer from "./footer";
 import { Link, useLocation } from "react-router-dom";
 
