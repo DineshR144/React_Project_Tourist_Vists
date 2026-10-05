@@ -1,37 +1,51 @@
 [
-    {
-        "imghero": "/images/Mango Heritage/Mango Heritage.png",
-        "festext1":"THE MANGO CITY",
-        "festext2":"Taste the Heritage of Salem",
-        "festext3":"Explore the orchards, flavours and farming traditions behind Salem's celebrated mango culture.",
+  {
+    "imghero": "/images/Mango Heritage/Mango Heritage.png",
 
-        "mangosub":"History",
-        "mangohead":"Salem's Mango Identity",
-        "mangocontent1":"Salem district is one of Tamil Nadu's most significant mango-producing regions. The fertile red soils and tropical climate support over 200 mango varieties, with orchards stretching across thousands of hectares from the plains to the Shevaroy foothills.",
-        "mangocontent2":"The summer months of April through June transform Salem into a mango paradise — with roadside stalls, wholesale markets and orchard visits. The Salem mango market is one of the largest in Tamil Nadu.",
-        "mangocontent3":"Salem's mango heritage is not merely agricultural — it is cultural. The mango is woven into local art, festivals, cuisine and the city's identity itself.",
+    "festext1": "THE MANGO CITY",
+    "festext2": "Taste the Heritage of Salem",
+    "festext3": "Explore the orchards, flavours and farming traditions behind Salem's celebrated mango culture.",
 
-        "subhead":"History",
-        "mainhead":"Salem's Mango Identity",
-        "p1":"Salem district is one of Tamil Nadu's most significant mango-producing regions. The fertile red soils and tropical climate support over 200 mango varieties, with orchards stretching across thousands of hectares from the plains to the Shevaroy foothills.",
-        "p2":"The summer months of April through June transform Salem into a mango paradise — with roadside stalls, wholesale markets and orchard visits. The Salem mango market is one of the largest in Tamil Nadu.",
-        "p3":"Salem's mango heritage is not merely agricultural — it is cultural. The mango is woven into local art, festivals, cuisine and the city's identity itself.",
-        "img1":"/images/Mango Heritage/Mango1.jpg",
-        "img2":"/images/Mango Heritage/Mango2.jpg",
-        "img3":"/images/Mango Heritage/Mango3.jpg",
+    "mangosub": "History",
+    "mangohead": "Salem's Mango Identity",
 
-        "heading":"Salem's Mango Varieties",
-        "varieties1":"Alphonso",
-        "varieties2":"Banganapalli",
-        "varieties3":"Neelum",
-        "varieties4":"Totapuri",
-        "varietiesimg1":"/images/Mango Heritage/Alphonso.jpg",
-        "varietiesimg2":"/images/Mango Heritage/Banganapalli.jpg",
-        "varietiesimg3":"/images/Mango Heritage/neelam.png",
-        "varietiesimg4":"/images/Mango Heritage/Totapuri Mango.jpg",
-        "mangocontent1":"locally known as 'Gundu' mangoes, are sweet, aromatic fruits with a rich, golden-yellow pulp.",
-        "mangocontent2":"Banganapalli mangoes are widely available in Salem through local organic farms, online platforms like Salem Mango, and regional distributors.",
-        "mangocontent3":"a popular, late-season South Indian mango variety known for its bright golden-yellow skin, distinct floral aroma, and sweet-tangy taste.",
-        "mangocontent4":"Totapuri mangoes (locally known as Kilimooku) are widely cultivated in Salem, Tamil Nadu, and are renowned for their tangy-sweet flavor, crunchy raw texture, and suitability for pickles and salads."
-    }
+    "mangocontent1": "Salem district is one of Tamil Nadu's most significant mango-producing regions. The fertile red soils and tropical climate support over 200 mango varieties, with orchards stretching across thousands of hectares from the plains to the Shevaroy foothills.",
+
+    "mangocontent2": "The summer months of April through June transform Salem into a mango paradise — with roadside stalls, wholesale markets and orchard visits. The Salem mango market is one of the largest in Tamil Nadu.",
+
+    "mangocontent3": "Salem's mango heritage is not merely agricultural — it is cultural. The mango is woven into local art, festivals, cuisine and the city's identity itself.",
+
+    "subhead": "History",
+    "mainhead": "Salem's Mango Identity",
+
+    "p1": "Salem district is one of Tamil Nadu's most significant mango-producing regions. The fertile red soils and tropical climate support over 200 mango varieties, with orchards stretching across thousands of hectares from the plains to the Shevaroy foothills.",
+
+    "p2": "The summer months of April through June transform Salem into a mango paradise — with roadside stalls, wholesale markets and orchard visits. The Salem mango market is one of the largest in Tamil Nadu.",
+
+    "p3": "Salem's mango heritage is not merely agricultural — it is cultural. The mango is woven into local art, festivals, cuisine and the city's identity itself.",
+
+    "img1": "/images/Mango Heritage/Mango1.jpg",
+    "img2": "/images/Mango Heritage/Mango2.jpg",
+    "img3": "/images/Mango Heritage/Mango3.jpg",
+
+    "heading": "Salem's Mango Varieties",
+
+    "varieties1": "Alphonso",
+    "varieties2": "Banganapalli",
+    "varieties3": "Neelum",
+    "varieties4": "Totapuri",
+
+    "varietiesimg1": "/images/Mango Heritage/Alphonso.jpg",
+    "varietiesimg2": "/images/Mango Heritage/Banganapalli.jpg",
+    "varietiesimg3": "/images/Mango Heritage/neelam.png",
+    "varietiesimg4": "/images/Mango Heritage/Totapuri Mango.jpg",
+
+    "varietiescontent1": "Locally known as 'Gundu' mangoes, Alphonso mangoes are sweet and aromatic fruits with a rich, golden-yellow pulp.",
+
+    "varietiescontent2": "Banganapalli mangoes are widely available in Salem through local organic farms, online platforms like Salem Mango, and regional distributors.",
+
+    "varietiescontent3": "Neelum is a popular, late-season South Indian mango variety known for its bright golden-yellow skin, distinct floral aroma, and sweet-tangy taste.",
+
+    "varietiescontent4": "Totapuri mangoes, locally known as Kilimooku, are widely cultivated in Salem, Tamil Nadu, and are renowned for their tangy-sweet flavor, crunchy raw texture, and suitability for pickles and salads."
+  }
 ]
