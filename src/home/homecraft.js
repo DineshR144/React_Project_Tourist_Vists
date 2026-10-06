@@ -10,7 +10,7 @@ function Crafts({ onDiscoverCrafts }) {
       description:
         "Intricate temple sculptures, decorative panels and figurines — carved by fifth-generation master craftsmen.",
       location: "Thammampatti, Salem District",
-      image: "/images/home/thammampatti_Wood.jpg",
+      image: "/images/home/Thammampatti_Wood.jpg",
     },
 
     {
