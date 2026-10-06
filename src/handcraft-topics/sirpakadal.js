@@ -126,7 +126,7 @@ function SirpaKadal() {
           <div className="group overflow-hidden rounded-[30px] bg-white shadow-xl">
 
             <img
-              src="/images/handicrafts/img3.png"
+              src="/images/Handicrafts/img3.png"
               alt="Detailed Vinayagar traditional sculpture"
               className="h-[450px] w-full object-cover object-center transition duration-700 group-hover:scale-105 sm:h-[500px]"
             />
