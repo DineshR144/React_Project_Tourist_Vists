@@ -11,7 +11,7 @@ function SalemSilk() {
         {/* LEFT HERO IMAGE */}
         <div className="absolute inset-0">
           <img
-            src="/images/handicrafts/img1.png"
+            src="/images/home/salem venpattu.png"
             alt="Salem Silk Weaving and Handlooms"
             className="h-full w-full object-cover"
           />
