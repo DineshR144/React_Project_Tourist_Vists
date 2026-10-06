@@ -9,7 +9,7 @@ function Thammampatti() {
       <section className="relative h-[70vh] min-h-[520px] overflow-hidden">
 
         <img
-          src="/images/home/thammampatti_Wood.jpg"
+          src="/images/home/Thammampatti_Wood.jpg"
           alt="Thammampatti Wood Carving"
           className="absolute inset-0 h-full w-full object-cover"
         />
