@@ -81,7 +81,7 @@ function Hand() {
             <div className="h-[280px] overflow-hidden sm:h-[300px]">
 
               <img
-                src="/images/home/vinayagar.jpeg"
+                src="/images/home/Thammampatti_Wood.jpg"
                 alt="Thammampatti Wood Carving"
                 className="h-full w-full object-cover transition-transform duration-500 group-hover:scale-105"
               />
